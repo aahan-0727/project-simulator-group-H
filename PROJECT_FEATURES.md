@@ -8,3 +8,5 @@
 
 \-- Added student credit hours field
 
+\-- Added student status field
+

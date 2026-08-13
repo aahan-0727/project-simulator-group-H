@@ -8,3 +8,5 @@
 
 \-- Added student credit hours
 
+\-- Added student status
+
