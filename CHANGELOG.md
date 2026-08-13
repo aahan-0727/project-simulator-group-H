@@ -4,3 +4,5 @@
 
 \-- Added student gender
 
+\-- Added student semester
+
