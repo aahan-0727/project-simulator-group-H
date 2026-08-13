@@ -6,3 +6,5 @@
 
 \-- Added student semester
 
+\-- Added student credit hours
+
