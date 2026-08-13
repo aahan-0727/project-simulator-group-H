@@ -6,3 +6,5 @@
 
 \-- Added student semester field
 
+\-- Added student credit hours field
+
