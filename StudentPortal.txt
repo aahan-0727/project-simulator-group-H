@@ -7,4 +7,5 @@ struct Student
     int semester;
     int creditHours;
     char status[20];
+    int age;
 };
