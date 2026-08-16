@@ -15,3 +15,5 @@
 \-- Added student cgpa field
 
 \-- Added student department field
+
+\-- Added student email field

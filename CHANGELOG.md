@@ -15,3 +15,5 @@
 \-- Added student cgpa
 
 \-- Added student department
+
+\-- Added student email
