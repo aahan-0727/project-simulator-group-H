@@ -17,3 +17,5 @@
 \-- Added student department field
 
 \-- Added student email field
+
+\-- Added student phone field
