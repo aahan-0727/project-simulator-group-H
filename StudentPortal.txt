@@ -9,4 +9,5 @@ struct Student
     char status[20];
     int age;
     float cgpa;
+    char department[50];
 };
