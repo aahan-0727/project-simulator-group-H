@@ -8,4 +8,5 @@ struct Student
     int creditHours;
     char status[20];
     int age;
+    float cgpa;
 };
