@@ -11,3 +11,5 @@
 \-- Added student status
 
 \-- Added student age
+
+\-- Added student cgpa
