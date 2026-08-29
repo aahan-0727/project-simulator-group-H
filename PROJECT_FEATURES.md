@@ -1,21 +1,20 @@
-"# Implemented Features"
+# Project Features
 
-\-- Added student address field
+The Student Portal currently includes the following student features and data fields:
 
-\-- Added student gender field
-
-\-- Added student semester field
-
-\-- Added student credit hours field
-
-\-- Added student status field
-
-\-- Added student age field
-
-\-- Added student cgpa field
-
-\-- Added student department field
-
-\-- Added student email field
-
-\-- Added student phone field
+- Student ID & Name
+- Academic Information:
+  - Department
+  - Semester
+  - Credit Hours
+  - CGPA
+  - Academic Status
+- Contact & Personal Information:
+  - Email Address
+  - Phone Number
+  - Address
+  - Age
+  - Gender
+- Documentation:
+  - Organized Changelog (`CHANGELOG.md`)
+  - Team Information (`README.md`)
