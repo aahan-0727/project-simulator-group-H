@@ -2,7 +2,7 @@ struct Student
 {
     int id;
     char name[100];
-    char address[100];
+    char address[200];
     char gender[10];
     int semester;
     int creditHours;
