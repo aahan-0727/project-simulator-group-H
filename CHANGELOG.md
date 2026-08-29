@@ -1,21 +1,17 @@
-"# Changelog"
+# Changelog
 
-\-- Added student address
+## Version 1.3
 
-\-- Added student gender
+- Renamed student fields.
 
-\-- Added student semester
+## Version 1.2
 
-\-- Added student credit hours
+- Added student contact information.
 
-\-- Added student status
+## Version 1.1
 
-\-- Added student age
+- Added student academic information.
 
-\-- Added student cgpa
+## Version 1.0
 
-\-- Added student department
-
-\-- Added student email
-
-\-- Added student phone
+- Initial Student structure created.
